@@ -1,25 +1,3 @@
 # 新・Pythonチュートリアル
-## はじめに
-このサイトの教材は、筆者が皆様にPythonを教えている中で、特に重要だと感じている点をまとめたものです。通常の教材を補完するものとして、ご活用ください。なお、あくまで補完教材であるということと、**何より「非公式」であるということをご理解ください。** また、教材の内容には、誤りや誤植、筆者の主観的意見、少しばかり~~ふざけた~~記述などが含まれている可能性があることも、ご理解の上でご活用ください。
-
-## 更新履歴
-- 2024/1/9: 本サイト公開
-
-## 目次
-- 読み物編
-  - [前編](https://shun-maruta.github.io/python_lecture/tutorial.html)：変数、文字列、リストとその操作を中心にfor文や関数の基礎を学びます。
-  - [中編](https://shun-maruta.github.io/python_lecture/tutorial_part3.html)：if、for、whiile文というプログラミングにおいて最重要とも言える制御構文を詳しく丁寧に学びます。おまけ付き。
-  - [後編](https://shun-maruta.github.io/python_lecture/tutorial_part2.html)：関数、クラス、内包表記をコードを読むということを通して学びます。
-- 問題集編
-  - [knock-part1](https://shun-maruta.github.io/python_lecture/knock.html)：読み物編の前編・中編を元に、簡単な問題を解いていきます。
-
-
-## 特記事項
-- 改めてになりますが、本サイトの内容は筆者の趣味である**非公式教材**です。
-- 誤りや誤植などを見つけた場合は、筆者へ直接ご連絡ください。(1/9時点では、連絡先公開していません)
-
-## おわりに
-最後までお読みいただき、ありがとうございました。本サイトが皆様のPython学習のお役に立てれば幸いです。基礎力をしっかり身につけて、Pythonを楽しみましょう！
-
----
+ホームページはこちらです。(https://shun-maruta.github.io/python_lecture/index.html)
 &copy; Shun Maruta
